@@ -1,0 +1,6 @@
+pymongo
+python-dotenv
+openai
+scikit-learn
+numpy
+certifi
