@@ -74,3 +74,8 @@ python tag_influencers.py
 python recommend.py "상품명"
 # 예시: python recommend.py 네모팬티
 ```
+## 4. 캡쳐
+<img width="1645" height="1013" alt="image" src="https://github.com/user-attachments/assets/2436f625-02b8-4496-87a7-1c55b80f99b4" />
+
+<img width="1408" height="597" alt="image" src="https://github.com/user-attachments/assets/bc32ba70-59b9-4218-aad5-16a27bfaa276" />
+
